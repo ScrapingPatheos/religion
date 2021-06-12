@@ -7,3 +7,5 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: 1. Einleitung
+- file: 2. Vorbereitungen
+- file: 3. Datensammlung
